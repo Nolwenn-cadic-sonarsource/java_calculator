@@ -5,6 +5,7 @@ public class Main {
     return a + b;
   }
   public static void main(String[] args) {
+    String s = "unused String";
     int a = 5;;;;;;;;;
     ;;;;;;;;;
     int b = 8;
