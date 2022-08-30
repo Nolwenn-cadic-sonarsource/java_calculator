@@ -5,8 +5,16 @@ public class Main {
     return a + b;
   }
   public static void main(String[] args) {
-    int a = 5;
+    int a = 5;;;;;;;;;
+    ;;;;;;;;;
     int b = 8;
+    System.out.println(format("%d + %d = %d", a, b, addition(a, b)));
+    System.out.println(format("%d + %d = %d", a, b, addition(a, b)));
+    System.out.println(format("%d + %d = %d", a, b, addition(a, b)));
+    System.out.println(format("%d + %d = %d", a, b, addition(a, b)));
+    System.out.println(format("%d + %d = %d", a, b, addition(a, b)));
+    System.out.println(format("%d + %d = %d", a, b, addition(a, b)));
+    System.out.println(format("%d + %d = %d", a, b, addition(a, b)));
     System.out.println(format("%d + %d = %d", a, b, addition(a, b)));
   }
 }
